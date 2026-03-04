@@ -1,49 +1,77 @@
-# 👋 Xin chào, mình là Nguyen Minh Nghia!
+# 👋 Xin chào, mình là Nguyen Minh Nghia
+🎮 Unity Developer | Game Development 
 
-Chào mừng bạn đến với trang GitHub của mình! Mình đam mê công nghệ, lập trình và thích tạo ra những giải pháp sáng tạo. Đây là nơi mình chia sẻ các dự án nổi bật, những bài học kinh nghiệm và các ý tưởng đang phát triển.
+Chào mừng bạn đến với trang GitHub của mình!  
+Mình là một **Unity Dev** đam mê phát triển game, đặc biệt là **game mobile với Unity và C#**.  
+Hiện tại mình đang học hỏi, xây dựng các dự án game và nâng cao kỹ năng lập trình gameplay.
 
 ---
 
-## 🚀 Dự án nổi bật
-
-- [**Dino_Chrome_GDS**](https://github.com/NguyenMinhNghia-2004/Dino_Chrome_GDS): Phiên bản hiện đại của game Dino huyền thoại trên Chrome.
-- [**Tetris**](https://github.com/NguyenMinhNghia-2004/Tetris): Trò chơi xếp hình Tetris kinh điển do mình và bạn phát triển.
-- [**Web Laptop**](https://github.com/chudinhtao/Web_Laptop): Website thương mại điện tử laptop hiện đại - dự án cộng tác nhóm.
-- [**Java Advanced**](https://github.com/phuphu0981/JavAdv): Tài nguyên học tập và phát triển Java nâng cao.
-- [**Công Nghệ Phần Mềm**](https://github.com/nguyentruong2503/congnghephanmem): Khám phá các khái niệm và phát triển công nghệ phần mềm.
+## 🚀 Giới thiệu
+- 🎓 Sinh viên ngành Công nghệ thông tin
+- 🎮 Tập trung phát triển **Game bằng Unity**
+- 💡 Quan tâm đến:
+  - Gameplay Programming
+  - Game Mechanics
+  - UI/UX trong game
+  - Tối ưu hiệu năng game
 
 ---
 
 ## 🛠️ Ngôn ngữ & Công cụ
 
-- **Ngôn ngữ lập trình:** Java, Php, C, C++, C#
-- **Công cụ:** Visual Studio Code, Unity, Git, GitHub
-- **Web:** HTML, CSS, Laravel
+### Game Development
+- Unity Engine
+- C#
+- Unity UI (Canvas)
+- Animator & Animation
+- Particle System
+
+### Tools
+- Git & GitHub
+- Visual Studio / VS Code
+- Blender (cơ bản)
+- Photoshop / Aseprite (cơ bản)
 
 ---
 
-## 📈 Thống kê GitHub
+## 📂 Dự án nổi bật
 
-![NguyenMinhNghia-2004's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NguyenMinhNghia-2004&show_icons=true&theme=radical)
+### 🎮 Mini Games
+...
+
+### 🔧 Unity Practice Projects
+- Player Controller System
+- Level Manager
+- Game UI System
+- Audio Manager System
 
 ---
+
+## 📈 Mục tiêu hiện tại
+- Hoàn thiện một **mobile game hoàn chỉnh và publish**
+- Học thêm về:
+  - Design Pattern
+  - Game Optimization
+  - Game Architecture
+  - Unity Skill, Tool
+- Tham gia các dự án game team
+
+---
+
+## 📊 GitHub Stats
+
 
 ## 🤝 Kết nối với mình
-
-- **Facebook:** [Nguyen Minh Nghia](https://www.facebook.com/nguyen.minhnghia.972004)
-- **Gmail:** [nghianguyenminh507@gmail.com](mailto:nghianguyenminh507@gmail.com)
-- **Zalo:** 0818201892
-
----
-
-## 🌱 Định hướng tiếp theo
-
-Mình luôn sẵn sàng học hỏi điều mới và hợp tác trong các dự án thú vị. Hãy ghé thăm các repo để xem mình đang làm gì nhé!
+- Facebook: https://www.facebook.com/nguyen.minhnghia.972004  
+- Email: nghianguyenminh507@gmail.com  
+- Zalo: 0818201892  
 
 ---
 
-> _“Code giống như truyện cười. Nếu phải giải thích thì nó không hay.”_ – Cory House
+## 🌱 Định hướng phát triển
+Mình đang hướng tới trở thành **Unity Game Developer chuyên nghiệp** và mong muốn tham gia các dự án game thực tế để học hỏi và phát triển kỹ năng.
 
 ---
 
-<!-- README hồ sơ được tạo tự động bởi GitHub Copilot 🤖 -->
+> "Trên đời này làm gì có đường, người ta đi mãi thì thành đường thôi" – Lỗ Tấn
