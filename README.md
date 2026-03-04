@@ -38,7 +38,9 @@ Hiện tại mình đang học hỏi, xây dựng các dự án game và nâng c
 ## 📂 Dự án nổi bật
 
 ### 🎮 Mini Games
-...
+Bộ sưu tập các mini game được phát triển bằng Unity trong quá trình học tập và thực hành.
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Mini--Games-181717?style=for-the-badge&logo=github)](https://github.com/NguyenMinhNghia-2004/Mini-Games)
 
 ### 🔧 Unity Practice Projects
 - Player Controller System
