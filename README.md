@@ -30,9 +30,7 @@ Hiện tại mình đang học hỏi, xây dựng các dự án game và nâng c
 ### Tools
 - Git & GitHub
 - Visual Studio / VS Code
-- Blender (cơ bản)
-- Photoshop / Aseprite (cơ bản)
-
+- AI Agent
 ---
 
 ## 📂 Dự án nổi bật
