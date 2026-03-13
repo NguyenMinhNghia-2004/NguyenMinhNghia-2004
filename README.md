@@ -41,6 +41,7 @@ Hiện tại mình đang học hỏi, xây dựng các dự án game và nâng c
 Bộ sưu tập các mini game được phát triển bằng Unity trong quá trình học tập và thực hành.
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Mini--Games-181717?style=for-the-badge&logo=github)](https://github.com/NguyenMinhNghia-2004/Mini-Games)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Tap--Away--Remove--Block-181717?style=for-the-badge&logo=github)](https://github.com/NguyenMinhNghia-2004/Tap_Away_2D_Remove_Blocks)
 
 ### 🔧 Unity Practice Projects
 - Player Controller System
